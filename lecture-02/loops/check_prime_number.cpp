@@ -16,8 +16,8 @@ int main(){
             return 0;
         }   
    }
-}
 cout<<"It is a prime number.";
+}
 return 0;
     return 0;
 }
