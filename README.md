@@ -1,1 +1,1 @@
-# cpp-data-structure-algorithms
+# cpp-data-structure-and-algorithms
