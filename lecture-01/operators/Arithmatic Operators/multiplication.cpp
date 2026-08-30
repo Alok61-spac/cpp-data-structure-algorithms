@@ -1,4 +1,4 @@
-//count price of product by using multipication.
+//count price of product by using multiplication.
 #include <iostream>
 using namespace std;
 
