@@ -1,4 +1,4 @@
-//Find reminder
+//Find remainder
 #include <iostream>
 using namespace std;
 
@@ -9,6 +9,6 @@ int main(){
     cin>>numerator;
     cout<<"Enter Your Denomirator:";
     cin>>denominator;
-    cout<<"Reminder Is: "<<numerator % denominator;
+    cout<<"Remainder Is: "<<numerator % denominator;
     return 0;
 }
